@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 唐维劭
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Tang Wei Shao
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wei shao
+last_name: Tang
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 博士二年级
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: 清华大学Aerolab
     url: https://openai.com/
 
 # Social network links
