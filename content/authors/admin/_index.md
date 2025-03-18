@@ -37,7 +37,7 @@ profiles:
     url: https://github.com/Scarfwwz
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: zhihu
+  - icon: assets/media/icons/zhihu
     url: https://www.zhihu.com/people/twsshi-wo
   - icon: academicons/orcid
     url: https://orcid.org/
@@ -179,4 +179,4 @@ awards:
 
 ## About Me
 
-Weishao Tang is currently a second-year Ph.D. student at the School of Aeronautics and Astronautics, Tsinghua University, under the guidance of Professor Haixin Chen and Professor Yufei Zhang. He is also affiliated with the Areolab laboratory. His research focuses on the intersection of artificial intelligence and fluid mechanics. Prior to this, he earned his Bachelor of Science degree from the School of Mathematical Sciences at Tsinghua University.
+Weishao Tang（唐维劭） is currently a second-year Ph.D. student at the School of Aeronautics and Astronautics, Tsinghua University, under the guidance of Professor Haixin Chen and Professor Yufei Zhang. He is also affiliated with the Areolab laboratory. His research focuses on the intersection of artificial intelligence and fluid mechanics. Prior to this, he earned his Bachelor of Science degree from the School of Mathematical Sciences at Tsinghua University.
