@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 博士二年级
+role: 网爷
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -34,31 +34,33 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Scarfwwz
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
+  - icon: zhihu
+    url: https://www.zhihu.com/people/twsshi-wo
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence and Fluid Dynamics
+  - Aerodynamic Optimization Design
+  - War & History
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. in Aerospace Engineering,2023-2028
+    institution: Tsinghua University
+    date_start: 2023-09-01
+    date_end: 2028-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. in Math, 2019-2023
+    institution: Tsinghua University
+    date_start: 2019-09-01
+    date_end: 2023-06-30
     summary: |
       GPA: 3.8/4.0
 
@@ -177,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Weishao Tang is currently a second-year Ph.D. student at the School of Aeronautics and Astronautics, Tsinghua University, under the guidance of Professor Haixin Chen and Professor Yufei Zhang. He is also affiliated with the Areolab laboratory. His research focuses on the intersection of artificial intelligence and fluid mechanics. Prior to this, he earned his Bachelor of Science degree from the School of Mathematical Sciences at Tsinghua University.
